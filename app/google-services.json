@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "510942604514",
+    "project_id": "call-unlimited",
+    "storage_bucket": "call-unlimited.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510942604514:android:9e095dc80f436d0a4d42bb",
+        "android_client_info": {
+          "package_name": "com.callunlimited"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPk5UiqYs0YsMTqJsIR6ezFhZNdT_OBxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
